@@ -1,8 +1,8 @@
 import React from "react";
 import { Grid } from "@mui/material";
 import { useTranslation } from "react-i18next";
-import Card from "../../components/Dashboard/card";
-import Chart from "../../components/Dashboard/chart";
+import Card from "../../components/Card";
+import Chart from "../../components/Chart";
 import { useStyles } from "./styles";
 
 function Home() {
@@ -32,4 +32,3 @@ function Home() {
 }
 
 export default Home;
-// jnxsjjn

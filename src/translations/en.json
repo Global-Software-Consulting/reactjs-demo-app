@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "title": "Demo App",
+    "mode": "mode"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "sales": "Weekly Sales",
+    "products": "Products",
+    "income": "Income",
+    "users": "Users",
+    "chart": {
+      "title": "Conversion Rates",
+      "description": "(+43%) than last year"
+    }
+  },
+  "crud": {
+    "title": "Crud",
+    "name": "Name",
+    "email": "Email",
+    "actions": "Actions",
+    "add": "Add",
+    "edit": "Update",
+    "delete": "Delete",
+    "message": "This is a required field"
+  },
+  "login": {
+    "title": "Sign In",
+    "email": {
+      "label": "Email Address",
+      "message": "Enter Valid Email"
+    },
+
+    "password": {
+      "label": "Password",
+      "message": "Password is required"
+    },
+    "submit": "Sign In",
+    "linkText": "Don't have an account? Sign Up"
+  },
+  "signup": {
+    "title": "Sign Up",
+    "fName": {
+      "label": "First Name",
+      "message": "First Name is required"
+    },
+    "lName": {
+      "label": "Last Name",
+      "message": "Last Name is required"
+    },
+    "email": {
+      "label": "Email Address",
+      "message": "Enter Valid Email"
+    },
+    "password": {
+      "label": "Password",
+      "message": "Password is required"
+    },
+    "submit": "Sign Up",
+    "linkText": "Already have an account? Login"
+  },
+  "logout": "Logout"
+}

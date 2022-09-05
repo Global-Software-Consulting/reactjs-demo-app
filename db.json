@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "name": "zunaira",
+      "email": "zunaira@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "mashal",
+      "email": "mashal@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "hijab",
+      "email": "hijab@gmail.com",
+      "id": 3
+    }
+  ]
+}
